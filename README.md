@@ -1,1 +1,5 @@
-# Messenger-Max_-_RussianMessenger
+# исходный код мессенджера MAX
+
+декомпилированно через: **Jadx**
+
+По вопросам писать в Telegramm: @H1lkaaaGD
